@@ -1,4 +1,8 @@
 @charset "UTF-8";
+.text-presentation{
+  text-align: justify;
+  text-justify: inter-word;
+}
 .item-text{
   padding-bottom: 20px;
 }
