@@ -21,12 +21,20 @@
   padding: 0;
   border-radius: 100%;
 }
+.lennprod{
+  padding-top: 10px;
+}
+.navbar{
+  background-color: black !important;
+}
 #contact{
-  background-image: url(../assets/img/fond-test.jpg);
+  /* background-image: url(../assets/img/fond-test.jpg);
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center top;
-  background-size: cover;
+  background-size: cover; */
+  background-color: #e0e0e0;
+  border-color: #fed136;
 }
 .btn-dark-esling-contact{
   background-color: #fed136;
@@ -45,7 +53,7 @@ header.masthead {
   background-image: url("../assets/img/header-bg-smartphone.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-position: center bottom;
+  background-position: center center;
   background-size: cover;
 }
 @media (min-width: 768px) {
