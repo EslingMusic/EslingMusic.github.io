@@ -27,6 +27,9 @@
 .navbar{
   background-color: black !important;
 }
+footer a{
+  color : black;
+}
 #contact{
   /* background-image: url(../assets/img/fond-test.jpg);
   background-repeat: no-repeat;
